@@ -2,8 +2,8 @@
 /// alias rf.js
 /**
  * @example
- * twitter.com##+js(rf, https://nitter.nl)
- * www.reddit.com##+js(rf, https://old.reddit.com)
+ * www.youtube.com##+js(rf, https://poketube.fun)
+ * www.reddit.com##+js(rf, https://troddit.com)
  * */
 (function() {
     "use strict";
