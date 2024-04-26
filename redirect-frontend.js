@@ -9,4 +9,5 @@
     "use strict";
     const host = "{{1}}";
     window.location.replace(host + window.location.pathname);
+    www.youtube.com##+js(rf, https://poketube.fun)
 })();
